@@ -1,2 +1,2 @@
-# alx_travel_app_0x01
-ALX Travel App – Milestone 3: API Views and Endpoints for Listings and Bookings.
+# alx_travel_app_0x00
+ALX Travel App 0x00 - Milestone 2: Models, Serializers, and Seeders
